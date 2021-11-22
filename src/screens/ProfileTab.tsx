@@ -14,7 +14,7 @@ const ProfileTab = ({navigation}: any) => {
                             routes: [{ name: 'Landing'}]
                         })                        
                     }}>
-                        <Text style={styles.buttonFont}>Reset Navigation Stack</Text>
+                        <Text style={styles.buttonFont}>Back To Landing Page</Text>
                     </TouchableOpacity>
         </View>
     )
